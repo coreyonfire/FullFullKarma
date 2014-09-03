@@ -1,0 +1,9 @@
+Package: com.coreyonfire.fullkarma
+Name: FullKarma
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description:Display your full karma instead of 1.0k
+Maintainer: coreyonfire
+Author: coreyonfire
+Section: Tweaks
